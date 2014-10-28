@@ -1,8 +1,8 @@
 # motion-conf
 
-_motion-conf_ is an easy to use configuration class generator for your RubyMotion apps. It uses YAML files to statically generate a `MotionConf` class with each option in the yaml file defined for easy access.
+_motion-conf_ is an easy to use configuration class generator for your RubyMotion apps. It uses YAML files to statically generate a `MotionConf` class with each option in the YAML file defined for easy access.
 
-It uses the RubyMotion environment variable to determine which YAML file to compile into your class.
+It uses the RubyMotion environment variable to determine which YAML file to compile into your application.
 
 ## Installation
 
@@ -59,6 +59,7 @@ The auto-generated `config.rb` should be added to your `.gitignore` and _should 
 
 1. Write tests
 2. Test in more environments
+3. Support nested YAML values?
 
 ## Contributing
 
