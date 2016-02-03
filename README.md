@@ -1,6 +1,6 @@
 # motion-conf
 
-_motion-conf_ is an easy to use configuration class generator for your RubyMotion apps. It uses YAML files to statically generate a `MotionConf` class with each option in the YAML file defined for easy access.
+_motion-conf_ is an easy to use configuration class generator for your RubyMotion apps maintained by ![Infinite Red](http://infinite.red), a web and mobile development company based in Portland, OR and San Francisco, CA. It uses YAML files to statically generate a `MotionConf` class with each option in the YAML file defined for easy access.
 
 It uses the RubyMotion environment variable to determine which YAML file to compile into your application.
 
